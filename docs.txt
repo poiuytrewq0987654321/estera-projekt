@@ -1,0 +1,50 @@
+szkielet strony wzięty stąd: https://getbootstrap.com/docs/4.0/examples/pricing/#
+
+
+https://boatico.com/boat/katamaran-twin-elli-lagoon-450-sport-2/
+built-in: 2020
+type: catamaran
+cabins: 4
+lozek: 12
+fuel: 1040l
+cena: 1812$ / week
+
+https://boatico.com/boat/katamaran-lagoon380sun-lagoon-380/
+built-in: 2017
+type: catamaran
+cabins: 6
+lozek: 10
+fuel: 210l
+cena: 1494$ / week
+
+https://boatico.com/boat/katamaran-sail-adasu-lagoon-420/
+built-in: 2021
+type: catamaran
+cabins: 4
+lozek: 10
+fuel: 600l
+cena: 5310$ / week
+
+https://boatico.com/boat/motoryacht-divine-posillipo-technema-95-2/
+built-in: 2006
+type: motoryacht
+cabins: 5
+lozek: 10
+fuel: 13000l
+cena: 47030$ / week
+
+https://boatico.com/boat/motoryacht-vento-ferretti-225-2/
+built-in: 2000
+type: motoryacht
+cabins: 4
+lozek: 8
+fuel: 5500 l 
+cena: 21110 $ / week
+
+https://boatico.com/boat/motoryacht-isla-balula-raffaelli-storm-47s-2/
+built-in: 1991
+type: motoryacht
+cabins: 3
+lozek: 5
+fuel: 2000l
+cena: 15950$ / week
