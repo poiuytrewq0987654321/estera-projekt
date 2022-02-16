@@ -27,3 +27,16 @@ html {
 img{
   max-width:100%;
 }
+
+.form-hide{
+  position: absolute;
+  z-index:999;
+  display: none;
+  width:100%;
+  height: 100%;
+  background-color: white;
+}
+
+.hide-me{
+  display:none;
+}
